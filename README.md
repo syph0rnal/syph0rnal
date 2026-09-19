@@ -1,27 +1,25 @@
-<h1 align="center">Hi 👋, I'm matvey</h1>
+<h1 align="center">👋 Привет! Я Матвей</h1>
 
-<h3 align="center">🐍 Python Developer • Full-Stack Developer • Open Source Enthusiast</h3>
+<h3 align="center">🐍 Python-разработчик | 🌐 Web-разработчик</h3>
 
 <p align="center">
-  I build web applications, automation tools, bots and various software projects.
-  <br>
-  Currently improving my skills and working on new projects 🚀
+  💻 Программирование • 🚀 Развитие • 🛠️ Создание проектов
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Немного обо мне
 
-* 🐍 Mainly working with **Python**
-* 🌐 Building websites with **HTML, CSS & JavaScript**
-* ⚙️ Interested in backend development and automation
-* 🤖 Creating bots and useful tools
-* 📚 Constantly learning new technologies
-* 🚀 Turning ideas into working projects
+* 🐍 Основной язык — **Python**
+* 🌐 Разрабатываю сайты с использованием **HTML, CSS и JavaScript**
+* ⚙️ Интересуюсь Backend-разработкой и автоматизацией
+* 🤖 Создаю ботов и различные инструменты
+* 📚 Постоянно изучаю новые технологии
+* 🚀 Работаю над собственными проектами и развиваю свои навыки
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Мой стек
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,sql,git,github,vscode,linux,docker" />
@@ -29,33 +27,47 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Моя статистика
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nikitadvesti&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitadvesti&layout=compact&theme=tokyonight&hide_border=true&locale=ru" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <img src="https://streak-stats.demolab.com/?user=nikitadvesti&theme=tokyonight&hide_border=true&locale=ru" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Чем занимаюсь
 
-> My favorite projects and experiments will appear here.
+```text
+Python          ████████████████████
+Web-разработка  ███████████████░░░░░
+Автоматизация   ██████████████░░░░░░
+Backend         ████████████░░░░░░░░
+```
+
+---
+
+## 📚 Сейчас изучаю
+
+* 🐍 Продвинутый Python
+* 🌐 Web-разработку
+* ⚙️ Backend и API
+* 🤖 Автоматизацию
+* 🗄️ Базы данных
+* 🐳 Docker
+
+---
+
+## 🎯 Цель
+
+> Постоянно развиваться как разработчик, создавать полезные проекты и изучать новые технологии.
 
 ---
 
 <p align="center">
-  <i>💻 Code • Learn • Build • Repeat</i>
+  💻 <b>Кодить • Учиться • Создавать</b> 🚀
 </p>
