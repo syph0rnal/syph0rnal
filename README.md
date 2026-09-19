@@ -30,14 +30,13 @@
 ## 📊 Моя статистика
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nikitadvesti&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitadvesti&layout=compact&theme=tokyonight&hide_border=true&locale=ru" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=syph0rnal&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syph0rnal&layout=compact&theme=tokyonight&hide_border=true&locale=ru" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nikitadvesti&theme=tokyonight&hide_border=true&locale=ru" />
+  <img src="https://streak-stats.demolab.com/?user=syph0rnal&theme=tokyonight&hide_border=true&locale=ru" />
 </p>
-
 ---
 
 ## 🚀 Чем занимаюсь
